@@ -1,0 +1,5 @@
+tabulate
+psutil
+pyscreenshot
+Xlib
+pynput

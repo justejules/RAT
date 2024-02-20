@@ -3,3 +3,7 @@ psutil
 pyscreenshot
 Xlib
 pynput
+tabulate
+psutil
+pyscreenshot
+Xlib

